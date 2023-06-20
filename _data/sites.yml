@@ -1647,6 +1647,11 @@
   size: 197
   last_checked: 2022-03-12
 
+- domain: kru.run
+  url: https://kru.run/
+  size: 11.8
+  last_checked: 2023-06-20
+
 - domain: kraktoos.com
   url: https://kraktoos.com/
   size: 23.8
